@@ -1,1 +1,1 @@
-# FinanceQA
+# FinanceQA——金融知识小助手
